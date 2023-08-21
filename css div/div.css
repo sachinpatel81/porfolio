@@ -1,0 +1,89 @@
+.red {
+    background-color: wheat;
+    height: 100vh;
+    border: solid;
+}
+
+.black {
+    background-color: black;
+    height: 10vh;
+    margin-top: 10px;
+    color: aliceblue;
+    
+}
+
+.green {
+    background-color: green;
+    display: flex;
+    margin-top: 20px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    border: solid;
+}
+
+.blue {
+    background-color: rgb(63, 9, 223);
+    width: 50%;
+    height: 150px;
+    margin-top: 20px;
+    border: solid;
+}
+
+.pink {
+    background-color: pink;
+    width: 30%;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 300px;
+    display: flex;
+    border: solid;
+}
+
+.sachin {
+    display: flex;
+    flex-direction: row;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    margin-top: 15%;
+    border: solid;
+}
+
+.aqua {
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin-top: 15%;
+    margin-left: 20%;
+    border: solid;
+}
+
+.brown {
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+}
+
+.purpel {
+    background-color: purple;
+    height: 200px;
+    width: 200px;
+}
+
+.oreng {
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+}
+
+.gamete {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
